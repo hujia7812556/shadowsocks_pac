@@ -6,4 +6,7 @@
 .monocloud.me/
 .facebook.net/
 .facebook.com/
+.apis.google.com/
+.twitter.com/
 www.floryday.com/
+p.floryday.com/
